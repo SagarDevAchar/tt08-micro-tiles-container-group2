@@ -84,7 +84,7 @@ None, just the standard Tiny Tapeout PCB.
 ## How to test
 
 - Connect the necessary peripherals
-- Provide a 25MHz clock to the top module `tt_um_micro_one_pixel_dvd_sda`
+- Provide a **1.5625MHz** clock to the top module `tt_um_micro_one_pixel_dvd_sda`
 - Set input bits 7 and 6 to choose the starting direction of movement
 - Reset the design
 - Enjoy the show (well there isn't much to enjoy :P)
